@@ -1,11 +1,8 @@
 {
-    "$schema": "node_modules/wrangler/config-schema.json",
-    "name": "hotel-kaushiki-menu",
-    "compatibility_date": "2026-09-08",
-    "observability": {
-      "enabled": true
-    },
-    "assets": {
-      "directory": "."
-    }
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "hotel-kaushiki-menu",
+  "compatibility_date": "2026-09-08",
+  "assets": {
+    "directory": "public"
   }
+}
